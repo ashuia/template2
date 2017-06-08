@@ -1,5 +1,5 @@
 // Write your cade below:
 module.exports = function main() {
-  var x y;
+  var x,y;
   return x%y;
 };
